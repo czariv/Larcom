@@ -1,5 +1,5 @@
 # César Guedes Carneiro - Avaliação Larcom/Unicamp
-### Disponivel em : https://github.com/czariv/Larcom
+### Disponível em : https://github.com/czariv/Larcom
 ### 1)
 ~~~python
 sexo = {"m":0,"f":0}
