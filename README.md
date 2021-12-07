@@ -1,4 +1,4 @@
-# César Guedes Carneiro - Prova Larcom/Unicamp
+# César Guedes Carneiro - Avaliação Larcom/Unicamp
 ### Disponivel em : https://github.com/czariv/Larcom
 ### 1)
 ~~~python
